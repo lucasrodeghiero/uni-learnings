@@ -1,0 +1,10 @@
+ing1 = input('Ingredient 1: ')
+qty1 = input('Quantity for ingredient 1: ')
+ing2 = input('Ingredient 2: ')
+qty2 = input('Quantity for ingredient 2: ')
+ing3 = input('Ingredient 3: ')
+qty3 = input('Quantity for ingredient 3: ')
+ing4 = input('Ingredient 4: ')
+qty4 = input('Quantity for ingredient 4: ')
+print(f'{ing1} {qty1}g\n{ing2} {qty2}kg\n{ing3} {qty3}g\n{ing4} {qty4} tin')
+

@@ -1,0 +1,6 @@
+purchaseNew = int(input("How many NEW books did you purchase? "))
+purchaseOld = int(input("How many OLD books did you purchase? "))
+bookRent = int(input("How many books would you like to rent? "))
+rentDays = int(input("How many days do you want to rent a book for? "))
+totalAmount= (10 * purchaseNew) + (4.5 * purchaseOld) + (2 * bookRent * rentDays)
+print(f'Your total expense was: ${totalAmount : .2f}')

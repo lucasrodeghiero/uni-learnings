@@ -1,0 +1,11 @@
+data = ['Anthony','Nancy','Ella','Bert','Zoe','Jack']
+print(data[0])
+print(data[3])
+print(data.sort())
+print(data)
+print(len(data))
+print(data.pop(4))
+print(data)
+print(data.append('Dakshina'))
+print(data)
+print(tuple(data+data))

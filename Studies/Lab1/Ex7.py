@@ -1,0 +1,5 @@
+print(2*4)
+print(20*10)
+print(30*100)
+print('T'*5)
+print('@'*3)

@@ -1,0 +1,1 @@
+myFirstName = input("")

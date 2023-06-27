@@ -1,0 +1,5 @@
+wordCount = input('Please enter the word to count: ')
+file = open('para.txt', 'r')
+read_data = file.read().split()
+word_count = read_data.count(wordCount)
+print(f'{word_count}')

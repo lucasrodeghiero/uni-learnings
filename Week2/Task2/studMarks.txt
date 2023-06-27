@@ -1,0 +1,10 @@
+Luke	Smith	67	56	62	70	54
+Jane	Blossom	61	71	72	81	80
+Mark	Slender	81	51	61	52	75
+Mala	Soysa	56	82	81	51	76
+Ben	King	51	48	62	71	70
+Rose	Song	82	63	91	87	89
+Fiona	French	82	76	51	53	78
+Carman	Leigh	48	67	53	82	68
+Sen	Li	43	46	30	26	49
+Erick	Vu	76	74	73	80	83

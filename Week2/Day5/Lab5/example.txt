@@ -1,0 +1,1 @@
+This text file is an example text file. This will help to understand the task; a clean output, should not have any commas, full stops or semicolons. The file content should be all lowercase letter words, sorted in ascending order. There should be NO repeating words.
